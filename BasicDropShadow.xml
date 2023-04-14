@@ -1,0 +1,37 @@
+<effect>
+<name>Basic Drop-Shadow</name>
+<description>Adds a displaced silhouette behind an entity.</description>
+<company>Net Negative</company>
+<parameter>
+		<name>Drop-Shadow Colour</name>
+		<code>shadowColour</code>
+		<description>The RGB drop-shadow colour.</description>
+		<type>int_float4</type>
+		<property>COLOR</property>
+		<value>1.0</value> 
+</parameter>
+<parameter>
+		<name>Drop-Shadow Intensity</name>
+		<code>shadowIntensity</code>
+		<description>The opacity of the drop shadow. (255 = opaque, 0 = clear)</description>
+		<type>int</type>
+		<property>slider</property>
+		<min>0</min>
+		<max>255</max>
+</parameter>
+<parameter>
+		<name>X Displacement</name>
+		<code>xDisplacement</code>
+		<description>The X displacement of the drop shadow.</description>
+		<type>int</type>
+		<value>1</value>
+</parameter>
+<parameter>
+		<name>Y Displacement</name>
+		<code>yDisplacement</code>
+		<description>The Y displacement of the drop shadow.</description>
+		<type>int</type>
+		<value>1</value>
+</parameter>
+</effect>
+
