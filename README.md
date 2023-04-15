@@ -5,4 +5,4 @@ The shadow can be moved vertically and horizontally, and its colour and opacity 
 ![Example Image](https://github.com/Ben-G-Man/Basic-Drop-Shadow-HLSL-Shader/blob/main/ExampleImages/ExampleImage1.png?raw=true)
 *(Drop-Shadow intesity = 64, X Displacement = 8, Y Displacement = 4)*
 
-Image Credits: Character art by Sam Hume, lead artist on the unreleased *Super Heavy* game.
+Image Credits: Character art by Sam Hume, lead artist on the currently unreleased *Super Heavy* game.
